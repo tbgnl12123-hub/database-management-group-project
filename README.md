@@ -9,3 +9,8 @@ Python 3.7 or higher
 PostgreSQL 12+
 MongoDB 4.4+
 
+Installation
+
+Clone the repository
+
+
