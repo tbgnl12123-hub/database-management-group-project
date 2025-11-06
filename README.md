@@ -11,6 +11,7 @@ MongoDB 4.4+
 
 Installation
 
-Clone the repository
-
+Clone the repository(Housing.csv)
+Install Python dependencies
+Database Setup
 
