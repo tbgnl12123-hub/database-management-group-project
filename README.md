@@ -13,5 +13,14 @@ Installation
 
 Clone the repository(Housing.csv)
 Install Python dependencies
-Database Setup
+Database Setup (PostgreSQL and MongoDB)
+
+Usage
+
+Import data to both databases ---> (python) data_importer.py
+Run performance tests ---> (python) performance_tester.py
+View results ---> performance_results.json
+Also console output with summarized results
+
+
 
